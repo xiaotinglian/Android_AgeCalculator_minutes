@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Android_AgeCalculator_minutes</string>
+    <string name="calculate_me">Calculate me!</string>
+    <string name="age">AGE</string>
+    <string name="in_minutes">IN MINUTES</string>
+    <string name="in_minutes_till_date">in minutes till date</string>
+    <string name="select_date">SELECT DATE</string>
+    <string name="selected_date">Selected Date</string>
+    <string name="calculate_your">Calculate Your</string>
+</resources>
